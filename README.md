@@ -1,2 +1,2 @@
 # julianosill.github.io
-My portfolios' repository
+My published portfolios' repository
